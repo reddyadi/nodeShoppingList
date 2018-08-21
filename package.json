@@ -1,0 +1,14 @@
+{
+  "name": "nodeshoppinglist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "nodemon -L index.js",
+    "getFiles": "npm install"
+  },
+  "author": "Aditya Reddy",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
